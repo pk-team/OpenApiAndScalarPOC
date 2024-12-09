@@ -1,8 +1,14 @@
+# OpenApi + Scalar.AspNetCor POC
+
+
+### Scalar.AspnetCore endpoint
+
+`http://localhost:7000/scalar/v1`
+
 
 
 ```sh
 dotnet add package Microsoft.AspnetCore.OpenApi
 dotnet add package Microsoft.Extension.ApiDescription.Server
-dotnet add package Swashbuckle.AspNetCore
-
+dotnet add package Scalar.AspNetCore
 ```
