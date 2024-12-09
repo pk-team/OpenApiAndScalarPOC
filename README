@@ -1,0 +1,8 @@
+
+
+```sh
+dotnet add package Microsoft.AspnetCore.OpenApi
+dotnet add package Microsoft.Extension.ApiDescription.Server
+dotnet add package Swashbuckle.AspNetCore
+
+```
